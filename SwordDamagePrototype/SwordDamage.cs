@@ -38,6 +38,7 @@ namespace SwordDamagePrototype
             if (isFlaming)
             {
                 Damage += FLAME_DAMAGE;
+                FlamingDamage = FLAME_DAMAGE;
             }
         }
     }
